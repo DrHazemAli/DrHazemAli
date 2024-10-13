@@ -11,7 +11,7 @@ I'm Hazem Ali, the CEO and founder of [Skytells, Inc.](https://skytells.io), a c
 
 
 ### 🌍 Professional Background
-With over **17+ years of experience** in software development, I have specialized in building, testing, and maintaining robust software solutions across industries. My journey in tech is driven by a passion for innovation and delivering high-quality products. I’ve contributed to several global platforms, including **Apple CoreML** and **PayPal SDK**. My expertise spans software development, AI research, and business innovation.
+With over **20+ years of experience** in software development, I have specialized in building, testing, and maintaining robust software solutions across industries. My journey in tech is driven by a passion for innovation and delivering high-quality products. I’ve contributed to several global platforms, including **Apple CoreML** and **PayPal SDK**. My expertise spans software development, AI research, and business innovation.
 
 
 ### 🌟 **Highlighted Contributions & Projects**
@@ -108,6 +108,17 @@ As an ML Engineer, I bring extensive experience across multiple platforms and la
 - 🏆 **Best Technology Investor (2021)**
 
 These awards reflect my dedication to driving innovation and excellence in the tech industry.
+
+### 📰 Press & Media
+I’ve had the opportunity to be featured and interviewed by various press and media outlets, discussing advancements in AI, cybersecurity, and innovation.
+
+- **Interview on ABC TV**: [Watch here](https://www.youtube.com/watch?v=HbDK-x3lEuo) – Discussing innovations in security and AI.
+- **Alhadath TV Podcast**: A deep dive into the future of AI in the Middle East.
+- **Featured on AWS Startups**: Recognized for Skytells, Inc.'s innovative contributions in AI and cloud computing.
+- **TechCrunch Article**: Mentioned in coverage of AI startups and innovations.
+- **Medium Article**: [Skytells CEO Hazem Ali at the Sharjah Linguistic AI Conference](https://medium.com/@ericua/skytells-ceo-hazem-ali-to-illuminate-ais-future-at-the-sharjah-linguistic-ai-conference-00ccde28f78f).
+- **Cairo Times**: [Coverage of Skytells’ groundbreaking AI technology](https://www.alqaheratimes.com/2024/08/skytells_22.html#:~:text=%D9%81%D9%8A%20%D8%AA%D8%B7%D9%88%D8%B1%20%D9%8A%D8%B9%D8%AF%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%20%D9%85%D9%86,%D9%85%D8%B9%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B9%D8%B5%D8%B1%20%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB).
+- **ANBAONA News**: [Interview and insights on AI and Skytells](https://www.anbaona.com/?p=6964).
 
 ---
 
