@@ -48,7 +48,14 @@ I have authored and contributed to numerous AI research papers, published in lea
 My work can be found on **[Skytells Research GitHub](https://github.com/skytells-research)**, where I explore AI solutions for real-world challenges.
 
 ### 🎙 Speaking & Conferences
-I have been a featured speaker at several notable conferences, including **IDEX23**, where I discussed the role of AI in shaping the future of business. These platforms provide opportunities to share ideas with industry leaders and explore the latest advancements in technology.
+I have been a featured speaker at several notable conferences, where I’ve shared insights on AI, entrepreneurship, and technology advancements. These platforms provide opportunities to engage with industry leaders and explore the latest advancements in technology.
+
+- 🇦🇪 **IDEX23:** Advancing military defense through AI technologies.
+- 🇪🇬 **Thinkers:** Keynote at the Canadian University in Cairo.
+- 🇺🇸 **WWDC (US):** Attending Apple’s Worldwide Developers Conference.
+- 🇹🇷 **Invision:** AI-powered robotics and building industries that think.
+- 🇵🇸 **Skytells Conference (Palestine):** Discussing innovative tech solutions.
+- 🇪🇬 **Entrepreneurs (Egypt 2018):** Focusing on entrepreneurship and tech innovation.
 
 
 ### 🎥 Television & Shows
