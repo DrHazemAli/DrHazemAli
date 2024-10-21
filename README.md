@@ -50,6 +50,8 @@ My work can be found on **[Skytells Research GitHub](https://github.com/skytells
 ### 🎙 Speaking & Conferences
 I have been a featured speaker at several notable conferences, where I’ve shared insights on AI, entrepreneurship, and technology advancements. These platforms provide opportunities to engage with industry leaders and explore the latest advancements in technology.
 
+- 🇦🇪 **Sharjah Linguistic & AI:** Discussed AI & LLMs in linguistic research.
+- 🇦🇪 **Microsoft:** Honored to speak about AI & ML at Future Minds Event at Microsoft.
 - 🇦🇪 **IDEX23:** Advancing military defense through AI technologies.
 - 🇪🇬 **Thinkers:** Keynote at the Canadian University in Cairo.
 - 🇺🇸 **WWDC (US):** Attending Apple’s Worldwide Developers Conference.
