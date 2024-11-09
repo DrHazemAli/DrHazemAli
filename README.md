@@ -46,7 +46,7 @@ I have authored and contributed to numerous AI research papers, published in lea
 - **MelaVision** - A machine learning model for early melanoma detection.
 - **Covid-19 Classification** - A deep learning model for classifying Covid-19 cases using medical imaging, published on **NIH**.
 - **DeepInfant** - A project exploring deep learning applications for infant behavior analysis.
-- **Optimal Training Calculator** - A sophisticated web tool that helps machine learning practitioners calculate optimal training parameters for their models.
+- **Optimal Training Calculator** - A web tool that helps ML practitioners calculate optimal training parameters.
 - **Stock Risk Analyzer** - A machine learning-powered tool for analyzing stock market risk levels.
 
 My work can be found on **[Skytells Research GitHub](https://github.com/skytells-research)**, where I explore AI solutions for real-world challenges.
