@@ -3,12 +3,14 @@
 I'm Hazem Ali, the CEO and founder of [Skytells, Inc.](https://skytells.io), a company focused on AI, cloud computing, and software engineering, featured on AWS Startups. I'm currently preparing for my **Ph.D.** in Computer Science, with a passion for advancing AI technologies and developing impactful applications.
 
 ![Google Logo](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft Logo](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-A2AAAD?style=for-the-badge&logo=Apple&logoColor=white)
+![Microsoft Logo](https://img.shields.io/badge/Microsoft-000000?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Cisco Logo](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Kaspersky Logo](https://img.shields.io/badge/Kaspersky-green?style=for-the-badge&logo=kaspersky&logoColor=white)
 ![Skytells Logo](https://img.shields.io/badge/Skytells-blue?style=for-the-badge&logo=skytells&logoColor=white)
 ![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="10%" alt="AWS Certified Cloud Practitioner"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" width="10%" alt="AWS Certified Security Speciality"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" width="10%" alt="AWS Certified Machile Learning Speciality">
 
 ### 🌍 Professional Background
 With over **20+ years of experience** in software development, I have specialized in building, testing, and maintaining robust software solutions across industries. My journey in tech is driven by a passion for innovation and delivering high-quality products. I’ve contributed to several global platforms, including **Apple CoreML** and **PayPal SDK**. My expertise spans software development, AI research, and business innovation.
@@ -44,21 +46,23 @@ I have authored and contributed to numerous AI research papers, published in lea
 - **MelaVision** - A machine learning model for early melanoma detection.
 - **Covid-19 Classification** - A deep learning model for classifying Covid-19 cases using medical imaging, published on **NIH**.
 - **DeepInfant** - A project exploring deep learning applications for infant behavior analysis.
+- **Optimal Training Calculator** - A sophisticated web tool that helps machine learning practitioners calculate optimal training parameters for their models.
+- **Stock Risk Analyzer** - A machine learning-powered tool for analyzing stock market risk levels using technical indicators and historical data.
 
 My work can be found on **[Skytells Research GitHub](https://github.com/skytells-research)**, where I explore AI solutions for real-world challenges.
 
 ### 🎙 Speaking & Conferences
 I have been a featured speaker at several notable conferences, where I’ve shared insights on AI, entrepreneurship, and technology advancements. These platforms provide opportunities to engage with industry leaders and explore the latest advancements in technology.
 
-- 🇦🇪 **Sharjah Linguistic & AI:** Discussed AI & LLMs in linguistic research.
-- 🇦🇪 **Microsoft:** Honored to speak about AI & ML at Future Minds Event at Microsoft.
-- 🇦🇪 **IDEX23:** Advancing military defense through AI technologies.
+- 🇦🇪 **Sharjah Linguistic & AI (2024):** Discussed AI & LLMs in linguistic research.
+- 🇦🇪 **Microsoft (2024):** Honored to speak about AI & ML at Future Minds Event at Microsoft.
+- 🇦🇪 **IDEX23 (2023):** Advancing military defense through AI technologies.
 - 🇪🇬 **Thinkers:** Keynote at the Canadian University in Cairo.
 - 🇺🇸 **WWDC (US):** Attending Apple’s Worldwide Developers Conference.
 - 🇹🇷 **Invision:** AI-powered robotics and building industries that think.
 - 🇵🇸 **Skytells Conference (Palestine):** Discussing innovative tech solutions.
 - 🇪🇬 **Entrepreneurs (Egypt 2018):** Focusing on entrepreneurship and tech innovation.
-
+- 🇲🇷 **Google Developers Club (Mauritania 2024):** Discussed AI & LLMs in linguistic research.
 
 ### 🎥 Television & Shows
 - **Interview on ABC TV:** [Watch here](https://www.youtube.com/watch?v=HbDK-x3lEuo)  
@@ -84,6 +88,7 @@ As an ML Engineer, I bring extensive experience across multiple platforms and la
 
 
 ### 🎓 Certifications
+- **Emirates Research Center & AUS:** AI Speaker Recognition.
 - **HarvardX:** State of the Art (AI)
 - **MIT xPRO:** Professional Education in Technology and AI
 - **Stanford University:** AI in Medicine
@@ -93,6 +98,8 @@ As an ML Engineer, I bring extensive experience across multiple platforms and la
 - **Kaspersky Labs:** Security Certifications
 - **Google AI:** AI and Machine Learning Certifications
 - **Apple Developers:** Certified iOS Developer
+- **AWS:** Certified Machine Learning Speciality
+- **AWS:** Certified Security Speciality
 - **Local Certifications:** Various recognitions for contributions in the Middle East
 
 ---
