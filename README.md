@@ -10,7 +10,7 @@ I'm Hazem Ali, the CEO and founder of [Skytells, Inc.](https://skytells.io), a c
 ![Skytells Logo](https://img.shields.io/badge/Skytells-blue?style=for-the-badge&logo=skytells&logoColor=white)
 ![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="10%" alt="AWS Certified Cloud Practitioner"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" width="10%" alt="AWS Certified Security Speciality"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" width="10%" alt="AWS Certified Machile Learning Speciality">
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="10%" alt="AWS Certified Cloud Practitioner"> <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1233010265/image13630196475283405168.png" width="10%" alt="AWS Certified Security Speciality"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" width="10%" alt="AWS Certified Machile Learning Speciality">
 
 ### 🌍 Professional Background
 With over **20+ years of experience** in software development, I have specialized in building, testing, and maintaining robust software solutions across industries. My journey in tech is driven by a passion for innovation and delivering high-quality products. I’ve contributed to several global platforms, including **Apple CoreML** and **PayPal SDK**. My expertise spans software development, AI research, and business innovation.
@@ -47,7 +47,7 @@ I have authored and contributed to numerous AI research papers, published in lea
 - **Covid-19 Classification** - A deep learning model for classifying Covid-19 cases using medical imaging, published on **NIH**.
 - **DeepInfant** - A project exploring deep learning applications for infant behavior analysis.
 - **Optimal Training Calculator** - A sophisticated web tool that helps machine learning practitioners calculate optimal training parameters for their models.
-- **Stock Risk Analyzer** - A machine learning-powered tool for analyzing stock market risk levels using technical indicators and historical data.
+- **Stock Risk Analyzer** - A machine learning-powered tool for analyzing stock market risk levels.
 
 My work can be found on **[Skytells Research GitHub](https://github.com/skytells-research)**, where I explore AI solutions for real-world challenges.
 
