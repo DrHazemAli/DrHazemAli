@@ -13,7 +13,9 @@ I'm Hazem Ali, the CEO and founder of [Skytells, Inc.](https://skytells.io), a c
 <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="10%" alt="AWS Certified Cloud Practitioner"> <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1233010265/image13630196475283405168.png" width="10%" alt="AWS Certified Security Speciality"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" width="10%" alt="AWS Certified Machile Learning Speciality">
 
 ### 🌍 Professional Background
-With over **20+ years of experience** in software development, I have specialized in building, testing, and maintaining robust software solutions across industries. My journey in tech is driven by a passion for innovation and delivering high-quality products. I’ve contributed to several global platforms, including **Apple CoreML** and **PayPal SDK**. My expertise spans software development, AI research, and business innovation.
+With over **20+ years of experience** in software development, I have specialized in building, testing, and maintaining robust software solutions across industries. My journey in tech is driven by a passion for innovation and delivering high-quality products. I’ve contributed to several global platforms, including **Apple CoreML**, **Cisco's SRTP** (Secure Real-time Transport Protocol) and **PayPal SDK**.
+
+My expertise spans software development, AI research, and business innovation.
 
 
 ### 🌟 **Highlighted Contributions & Projects**
@@ -75,7 +77,7 @@ I strongly believe in the power of open-source and have contributed to several p
 - **Skytells Framework** - A free and open-source PHP framework that simplifies web development.
 - **AsyncDisplayKit** - Contributed to optimize UI rendering in applications.
 - **PayPal Merchant SDK** - Contributed to the **[PayPal Merchant SDK (PHP)](https://github.com/paypal/merchant-sdk-php/pull/142/commits)** by improving functionality related to secure transactions and API optimization.
-
+- **Cisco's SRTP**  Contributed to the **[Cisco's SRTP](https://github.com/cisco/libsrtp)** Secure Real-time Transport Protocol, focusing on optimizing the secure RTP library by addressing performance bottlenecks, improving code reliability, and enhancing security measures for real-time communications.
 
 ### 🛠 My Tech Stack
 - **Languages:** Python, Swift, PHP, Java, C#, JavaScript, Node.js, Assembly (Embedded systems), C, C++, .NET
