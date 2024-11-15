@@ -10,7 +10,7 @@ I'm Hazem Ali, the CEO and founder of [Skytells, Inc.](https://skytells.io), a c
 ![Skytells Logo](https://img.shields.io/badge/Skytells-blue?style=for-the-badge&logo=skytells&logoColor=white)
 ![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="10%" alt="AWS Certified Cloud Practitioner"> <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1233010265/image13630196475283405168.png" width="10%" alt="AWS Certified Security Speciality"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" width="10%" alt="AWS Certified Machile Learning Speciality">
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="10%" alt="AWS Certified Cloud Practitioner"> <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1233010265/image13630196475283405168.png" width="10%" alt="AWS Certified Security Speciality"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" width="10%" alt="AWS Certified Machile Learning Speciality"><a href="https://www.linkedin.com/learning/certificates/4e7c30b4b9cf44d3c0edfcd7467d535b06c7efdf5a95b2288faaee8ce9d0f199"><img src="https://images.credly.com/images/bd5a91dd-ddb3-457a-ae35-41598fa98729/twitter_thumb_201604_AI_Industry_Leader_Badge2_test5.png" width="10%" alt="Microsoft Certified AI Leader"></a>
 
 ### 🌍 Professional Background
 With over **20+ years of experience** in software development, I have specialized in building, testing, and maintaining robust software solutions across industries. My journey in tech is driven by a passion for innovation and delivering high-quality products. I’ve contributed to several global platforms, including **Apple CoreML**, **Cisco's SRTP** (Secure Real-time Transport Protocol) and **PayPal SDK**.
@@ -91,6 +91,8 @@ As an ML Engineer, I bring extensive experience across multiple platforms and la
 
 ### 🎓 Certifications
 - **Emirates Research Center & AUS:** AI Speaker Recognition.
+- **Microsoft:** Certified AI Leader
+- **LinkedIn Learning:** Certified Organization AI Leader
 - **HarvardX:** State of the Art (AI)
 - **MIT xPRO:** Professional Education in Technology and AI
 - **Stanford University:** AI in Medicine
