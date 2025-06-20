@@ -109,16 +109,10 @@ As an ML Engineer, I bring extensive experience across multiple platforms and la
 ---
 
 ### 🌟 Awards & Recognition
-- ![Microsoft Logo](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white) **Microsoft Award for Innovation (2007)**
-- ![Cisco Logo](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) **Cisco Systems Award for Technology Leadership**
-- ![AWS Logo](https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=flat&logo=amazon-aws&logoColor=white) **Amazon Web Services Recognition**
-- ![Google Logo](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) **Google Award for Innovation**
-- ![Apple Logo](https://img.shields.io/badge/Apple-999999?style=flat&logo=apple&logoColor=white) **Apple Award for AI & Computer Vision Development**
 - ![Egypt Flag](https://img.shields.io/badge/Egypt-2008-red?style=flat&logo=flag&logoColor=white) **Successor in Programming Languages (2008)**
 - ![UAE Flag](https://img.shields.io/badge/UAE-blue?style=flat&logo=flag&logoColor=white) **Awards from the Government of UAE**
 - ![Stanford Logo](https://img.shields.io/badge/Stanford-8C1515?style=flat&logo=stanford&logoColor=white) **AI in Medicine Contributions (Stanford)**
-- 🏆 **Best Technology Entrepreneur in the Middle East (2018)**
-- 🏆 **Best Technology Investor (2021)**
+- ![AUS Flag](https://img.shields.io/badge/ECSSR-2024-blue?style=flat&logo=flag&logoColor=white) **Emirates Research Center & AUS:** AI & ML Speaker Recognition.
 
 These awards reflect my dedication to driving innovation and excellence in the tech industry.
 
