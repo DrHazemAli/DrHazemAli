@@ -1,6 +1,6 @@
 # Hi, I'm Hazem Ali 👋
 
-I'm Hazem Ali, the CEO and founder of [Skytells, Inc.](https://skytells.io), a company focused on AI, cloud computing, and software engineering, featured on AWS Startups. I'm currently preparing for my **Ph.D.** in Computer Science, with a passion for advancing AI technologies and developing impactful applications.
+I'm Hazem Ali, Microsoft AI MVP, Principal AI & ML Engineer / Architect and Founder & CEO of [Skytells, Inc.](https://skytells.io), a company focused on AI, cloud computing, and software engineering, featured on AWS Startups. I'm currently preparing for my **Ph.D.** in Computer Science, with a passion for advancing AI technologies and developing impactful applications.
 
 ![Google Logo](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-A2AAAD?style=for-the-badge&logo=Apple&logoColor=white)
@@ -113,7 +113,8 @@ As an ML Engineer, I bring extensive experience across multiple platforms and la
 - ![UAE Flag](https://img.shields.io/badge/UAE-blue?style=flat&logo=flag&logoColor=white) **Awards from the Government of UAE**
 - ![Stanford Logo](https://img.shields.io/badge/Stanford-8C1515?style=flat&logo=stanford&logoColor=white) **AI in Medicine Contributions (Stanford)**
 - ![AUS Flag](https://img.shields.io/badge/ECSSR-2024-blue?style=flat&logo=flag&logoColor=white) **Emirates Research Center & AUS:** AI & ML Speaker Recognition.
-
+- ![Microsoft MVP](https://img.shields.io/badge/MICROSOFT-MVP-blue?style=flat&logo=flag&logoColor=white) **Microsoft AI MVP**
+  
 These awards reflect my dedication to driving innovation and excellence in the tech industry.
 
 ### 📰 Press & Media
