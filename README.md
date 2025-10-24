@@ -37,6 +37,9 @@ My expertise spans software development, AI research, and business innovation.
 - Contributed to **Apple CoreML**, making machine learning accessible for iOS apps.
 - Helped develop **PayPal SDK**, improving secure online transactions globally.
 - **Private, Non-disclosed Projects** - Worked on several confidential projects not publicly available.
+- **AI Image Studio** - A powerful platform that leverages AI to provide professional-grade image generation and editing capabilities.
+
+
 
 
 
@@ -56,6 +59,9 @@ My work can be found on **[Skytells Research GitHub](https://github.com/skytells
 ### 🎙 Speaking & Conferences
 I have been a featured speaker at several notable conferences, where I’ve shared insights on AI, entrepreneurship, and technology advancements. These platforms provide opportunities to engage with industry leaders and explore the latest advancements in technology.
 
+- 🇪🇬 **TEDxEJUST** Beyond the Boundaries, Delivered on-site Talk & Hands-on AI Workshop.
+- 🇪🇬 **NASA Space Apps** - Served as a Judge, evaluating AI, AR/VR.
+- 🇦🇪 **CognitionX** Hosted in Microsoft Dubai, Delivered on-site session & Hands-on AI Workshop.
 - 🇦🇪 **Sharjah Linguistic & AI (2024):** Discussed AI & LLMs in linguistic research.
 - 🇦🇪 **Microsoft (2024):** Honored to speak about AI & ML at Future Minds Event at Microsoft.
 - 🇦🇪 **IDEX23 (2023):** Advancing military defense through AI technologies.
@@ -78,6 +84,7 @@ I strongly believe in the power of open-source and have contributed to several p
 - **AsyncDisplayKit** - Contributed to optimize UI rendering in applications.
 - **PayPal Merchant SDK** - Contributed to the **[PayPal Merchant SDK (PHP)](https://github.com/paypal/merchant-sdk-php/pull/142/commits)** by improving functionality related to secure transactions and API optimization.
 - **Cisco's SRTP**  Contributed to the **[Cisco's SRTP](https://github.com/cisco/libsrtp)** Secure Real-time Transport Protocol, focusing on optimizing the secure RTP library by addressing performance bottlenecks, improving code reliability, and enhancing security measures for real-time communications.
+- **SoraSDK** Engineered a community SDK for Azure OpenAI SORA, The repo was recognized by Microsoft's official GenAI repo.
 
 ### 🛠 My Tech Stack
 - **Languages:** Python, Swift, PHP, Java, C#, JavaScript, Node.js, Assembly (Embedded systems), C, C++, .NET
@@ -114,6 +121,9 @@ As an ML Engineer, I bring extensive experience across multiple platforms and la
 - ![Stanford Logo](https://img.shields.io/badge/Stanford-8C1515?style=flat&logo=stanford&logoColor=white) **AI in Medicine Contributions (Stanford)**
 - ![AUS Flag](https://img.shields.io/badge/ECSSR-2024-blue?style=flat&logo=flag&logoColor=white) **Emirates Research Center & AUS:** AI & ML Speaker Recognition.
 - ![Microsoft MVP](https://img.shields.io/badge/MICROSOFT-MVP-blue?style=flat&logo=flag&logoColor=white) **Microsoft AI MVP**
+- ![NASA SPACE](https://img.shields.io/badge/NASA-blue?style=flat&logo=flag&logoColor=white) **NASA SPACE APPS RECOGNITION**
+- ![TED Conferences](https://img.shields.io/badge/TED-red?style=flat&logo=flag&logoColor=white) **TED Conferences - Appreciation & Recognition**
+
   
 These awards reflect my dedication to driving innovation and excellence in the tech industry.
 
