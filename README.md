@@ -37,7 +37,7 @@ My expertise spans software development, AI research, and business innovation.
 - Contributed to **Apple CoreML**, making machine learning accessible for iOS apps.
 - Helped develop **PayPal SDK**, improving secure online transactions globally.
 - **Private, Non-disclosed Projects** - Worked on several confidential projects not publicly available.
-- **AI Image Studio** - A powerful platform that leverages AI to provide professional-grade image generation and editing capabilities.
+- **[AI Image Studio](https://www.github.com/DrHazemAli/image-studio)** - A powerful platform that leverages AI to provide professional-grade image generation and editing capabilities.
 
 
 
@@ -137,6 +137,12 @@ I’ve had the opportunity to be featured and interviewed by various press and m
 - **Medium Article**: [Skytells CEO Hazem Ali at the Sharjah Linguistic AI Conference](https://medium.com/@ericua/skytells-ceo-hazem-ali-to-illuminate-ais-future-at-the-sharjah-linguistic-ai-conference-00ccde28f78f).
 - **Cairo Times**: [Coverage of Skytells’ groundbreaking AI technology](https://www.alqaheratimes.com/2024/08/skytells_22.html#:~:text=%D9%81%D9%8A%20%D8%AA%D8%B7%D9%88%D8%B1%20%D9%8A%D8%B9%D8%AF%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%20%D9%85%D9%86,%D9%85%D8%B9%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B9%D8%B5%D8%B1%20%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB).
 - **ANBAONA News**: [Interview and insights on AI and Skytells](https://www.anbaona.com/?p=6964).
+
+### Magazines
+I’ve been privileged to be recognized by leading international magazines for my work, leadership and contributions in AI.
+- **THE LEADERS (2025)**: Featured as an AI & ML Visionary Driving the Future of Intelligent Innovation and Digital Transformation, highlighting strategic leadership and enterprise-scale impact.
+- **Alqahera Times (2024)** Featured for advancing AI in the region and driving new standards in innovation, security, and applied ML.
+
 
 ---
 
