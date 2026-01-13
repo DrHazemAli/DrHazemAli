@@ -1,6 +1,6 @@
 # Hi, I'm Hazem Ali 👋
 
-I'm Hazem Ali, Microsoft AI MVP, Principal AI & ML Engineer / Architect and Founder & CEO of [Skytells, Inc.](https://skytells.io), a company focused on AI, cloud computing, and software engineering, featured on AWS Startups. I'm currently preparing for my **Ph.D.** in Computer Science, with a passion for advancing AI technologies and developing impactful applications.
+I'm Hazem Ali, Microsoft AI MVP, Distinguished AI & ML Engineer / Architect and Founder & CEO of [Skytells, Inc.](https://skytells.io), a company focused on AI, cloud computing, and software engineering, featured on AWS Startups. I'm currently preparing for my **Ph.D.** in Computer Science, with a passion for advancing AI technologies and developing impactful applications.
 
 ![Google Logo](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-A2AAAD?style=for-the-badge&logo=Apple&logoColor=white)
@@ -72,6 +72,13 @@ I have been a featured speaker at several notable conferences, where I’ve shar
 - 🇪🇬 **Entrepreneurs (Egypt 2018):** Focusing on entrepreneurship and tech innovation.
 - 🇲🇷 **Google Developers Club (Mauritania 2024):** Discussed AI & LLMs in linguistic research.
 
+### 🎖️ Judge Roles & Evaluation Leadership
+I serve as a technical judge for high-impact innovation programs and competitions, evaluating solutions across AI/ML, product engineering, data, and architectural design. 
+My focus is on real-world feasibility, architecture quality, technical depth, and measurable impact—balancing innovation with execution.
+
+- **NASA Space Apps Cairo 2025** — Judge
+- **Microsoft Imagine Cup 2026** — Judge
+
 ### 🎥 Television & Shows
 - **Interview on ABC TV:** [Watch here](https://www.youtube.com/watch?v=HbDK-x3lEuo)  
   I discussed advanced security measures and innovations in cybersecurity.
@@ -123,6 +130,7 @@ As an ML Engineer, I bring extensive experience across multiple platforms and la
 - ![Microsoft MVP](https://img.shields.io/badge/MICROSOFT-MVP-blue?style=flat&logo=flag&logoColor=white) **Microsoft AI MVP**
 - ![NASA SPACE](https://img.shields.io/badge/NASA-blue?style=flat&logo=flag&logoColor=white) **NASA SPACE APPS RECOGNITION**
 - ![TED Conferences](https://img.shields.io/badge/TED-red?style=flat&logo=flag&logoColor=white) **TED Conferences - Appreciation & Recognition**
+- ![USA Flag](https://img.shields.io/badge/MICROSOFT-Ignite-blue?style=flat&logo=flag&logoColor=white) **MVP & Regional Directors Wall**
 
   
 These awards reflect my dedication to driving innovation and excellence in the tech industry.
@@ -143,6 +151,13 @@ I’ve been privileged to be recognized by leading international magazines for m
 - **THE LEADERS (2025)**: Featured as an AI & ML Visionary Driving the Future of Intelligent Innovation and Digital Transformation, highlighting strategic leadership and enterprise-scale impact.
 - **Alqahera Times (2024)** Featured for advancing AI in the region and driving new standards in innovation, security, and applied ML.
 
+## Publications (Industry / Technical Articles)
+Practical, engineering-first articles published on Microsoft.
+These pieces focus on production-grade AI architecture, agent security/governance, and performance engineering—designed to help teams ship reliable systems under real constraints.
+
+- [AI Didn’t Break Your Production — Your Architecture Did](https://techcommunity.microsoft.com/blog/educatordeveloperblog/ai-didn%E2%80%99t-break-your-production-%E2%80%94-your-architecture-did/4482848)
+- [Zero-Trust Agent Architecture: How To Actually Secure Your Agents](https://techcommunity.microsoft.com/blog/educatordeveloperblog/zero-trust-agent-architecture-how-to-actually-secure-your-agents/4473995)
+- [.NET 10 and Memory: Less Heap, Smarter GC, Faster Apps](https://techcommunity.microsoft.com/blog/educatordeveloperblog/-net-10-and-memory-less-heap-smarter-gc-faster-apps/4474165)
 
 ---
 
