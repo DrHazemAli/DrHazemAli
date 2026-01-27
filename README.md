@@ -162,7 +162,7 @@ These pieces focus on production-grade AI architecture, agent security/governanc
 ---
 
 ### 📱 Connect with Me
-- **Twitter:** [@phdhazem](https://twitter.com/phdhazem)
+- **Twitter:** [@phdhazem](https://twitter.com/drhazemx)
 - **GitHub:** [@drhazemali](https://github.com/drhazemali)
 - **Instagram:** [@drhazemx](https://instagram.com/drhazemx)
 - **Facebook:** [@drhazemx](https://facebook.com/drhazemx)
