@@ -150,7 +150,9 @@ I’ve had the opportunity to be featured and interviewed by various press and m
 I’ve been privileged to be recognized by leading international magazines for my work, leadership and contributions in AI.
 - **THE LEADERS (2025)**: Featured as an AI & ML Visionary Driving the Future of Intelligent Innovation and Digital Transformation, highlighting strategic leadership and enterprise-scale impact.
 - **Alqahera Times (2024)** Featured for advancing AI in the region and driving new standards in innovation, security, and applied ML.
-
+- CognitionX: [CognitionX Cairo Edition to MENA Engineering Gateway to the World
+](https://cognitionx.org/en/blog/cognitionx-cairo-edition-to-be-egypt-s-engineering-gateway-to-the-world)
+- Microsoft: [Engineering Without Borders: MVPs and Experts at CognitionX](https://techcommunity.microsoft.com/blog/mvp-blog/engineering-without-borders-mvps-and-experts-at-cognitionx-egypt/4487774)
 ## Publications (Industry / Technical Articles)
 Practical, engineering-first articles published on Microsoft.
 These pieces focus on production-grade AI architecture, agent security/governance, and performance engineering—designed to help teams ship reliable systems under real constraints.
@@ -163,7 +165,7 @@ These pieces focus on production-grade AI architecture, agent security/governanc
 ---
 
 ### 📱 Connect with Me
-- **Twitter:** [@phdhazem](https://twitter.com/drhazemx)
+- **Twitter:** [@drhazemx](https://twitter.com/drhazemx)
 - **GitHub:** [@drhazemali](https://github.com/drhazemali)
 - **Instagram:** [@drhazemx](https://instagram.com/drhazemx)
 - **Facebook:** [@drhazemx](https://facebook.com/drhazemx)
