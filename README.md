@@ -155,6 +155,7 @@ I’ve been privileged to be recognized by leading international magazines for m
 Practical, engineering-first articles published on Microsoft.
 These pieces focus on production-grade AI architecture, agent security/governance, and performance engineering—designed to help teams ship reliable systems under real constraints.
 
+- [The Hidden Memory Architecture of LLMs](https://techcommunity.microsoft.com/blog/educatordeveloperblog/the-hidden-memory-architecture-of-llms/4485367)
 - [AI Didn’t Break Your Production — Your Architecture Did](https://techcommunity.microsoft.com/blog/educatordeveloperblog/ai-didn%E2%80%99t-break-your-production-%E2%80%94-your-architecture-did/4482848)
 - [Zero-Trust Agent Architecture: How To Actually Secure Your Agents](https://techcommunity.microsoft.com/blog/educatordeveloperblog/zero-trust-agent-architecture-how-to-actually-secure-your-agents/4473995)
 - [.NET 10 and Memory: Less Heap, Smarter GC, Faster Apps](https://techcommunity.microsoft.com/blog/educatordeveloperblog/-net-10-and-memory-less-heap-smarter-gc-faster-apps/4474165)
