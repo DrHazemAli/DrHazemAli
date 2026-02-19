@@ -61,9 +61,11 @@ I have been a featured speaker at several notable conferences, where I’ve shar
 
 - 🇪🇬 **TEDxEJUST** Beyond the Boundaries, Delivered on-site Talk & Hands-on AI Workshop.
 - 🇪🇬 **NASA Space Apps** - Served as a Judge, evaluating AI, AR/VR.
+- 🇪🇬 **DeepMinds 5th, 6th** - Served as a technical authority, MSA.
 - 🇦🇪 **CognitionX** Hosted in Microsoft Dubai, Delivered on-site session & Hands-on AI Workshop.
 - 🇦🇪 **Sharjah Linguistic & AI (2024):** Discussed AI & LLMs in linguistic research.
 - 🇦🇪 **Microsoft (2024):** Honored to speak about AI & ML at Future Minds Event at Microsoft.
+- 🇦🇪 **AICO Dubai (Dec 2025)** — speaker at a premier AI conference in the UAE
 - 🇦🇪 **IDEX23 (2023):** Advancing military defense through AI technologies.
 - 🇪🇬 **Thinkers:** Keynote at the Canadian University in Cairo.
 - 🇺🇸 **WWDC (US):** Attending Apple’s Worldwide Developers Conference.
@@ -71,13 +73,16 @@ I have been a featured speaker at several notable conferences, where I’ve shar
 - 🇵🇸 **Skytells Conference (Palestine):** Discussing innovative tech solutions.
 - 🇪🇬 **Entrepreneurs (Egypt 2018):** Focusing on entrepreneurship and tech innovation.
 - 🇲🇷 **Google Developers Club (Mauritania 2024):** Discussed AI & LLMs in linguistic research.
+  
+For more and recent speaking updates, Please visit: [Speaking & Conferences](https://drhazemali.com/speaking)
 
 ### 🎖️ Judge Roles & Evaluation Leadership
-I serve as a technical judge for high-impact innovation programs and competitions, evaluating solutions across AI/ML, product engineering, data, and architectural design. 
+I serve as a technical judge, authority for high-impact innovation programs and competitions, evaluating solutions across AI/ML, product engineering, data, and architectural design. 
 My focus is on real-world feasibility, architecture quality, technical depth, and measurable impact—balancing innovation with execution.
 
 - **NASA Space Apps Cairo 2025** — Judge
 - **Microsoft Imagine Cup 2026** — Judge
+- **DeepMinds, Modern Sciences and Arts University (MSA)** - Technical Authority
 
 ### 🎥 Television & Shows
 - **Interview on ABC TV:** [Watch here](https://www.youtube.com/watch?v=HbDK-x3lEuo)  
@@ -161,6 +166,11 @@ These pieces focus on production-grade AI architecture, agent security/governanc
 - [AI Didn’t Break Your Production — Your Architecture Did](https://techcommunity.microsoft.com/blog/educatordeveloperblog/ai-didn%E2%80%99t-break-your-production-%E2%80%94-your-architecture-did/4482848)
 - [Zero-Trust Agent Architecture: How To Actually Secure Your Agents](https://techcommunity.microsoft.com/blog/educatordeveloperblog/zero-trust-agent-architecture-how-to-actually-secure-your-agents/4473995)
 - [.NET 10 and Memory: Less Heap, Smarter GC, Faster Apps](https://techcommunity.microsoft.com/blog/educatordeveloperblog/-net-10-and-memory-less-heap-smarter-gc-faster-apps/4474165)
+- [When Your LLM Trips the MMU: Page Faults, TLB Shootdowns, and the Hidden Virtual-Memory Tax of AI Inference](https://drhazemali.com/blog/when-your-llm-trips-the-mmu)
+- [Kernel Dynamics: The Real Bottleneck of AI](https://drhazemali.com/blog/kernel-dynamics-the-real-bottleneck-of-ai)
+  
+### Global Standards
+- [QSAF: Qorvex Security AI Framework](https://drhazemali.com/blog/qsaf-qorvex-security-ai-framework)
 
 ---
 
@@ -169,7 +179,7 @@ These pieces focus on production-grade AI architecture, agent security/governanc
 - **GitHub:** [@drhazemali](https://github.com/drhazemali)
 - **Instagram:** [@drhazemx](https://instagram.com/drhazemx)
 - **Facebook:** [@drhazemx](https://facebook.com/drhazemx)
-
+- **Website** [drhazemali.com](https://drhazemali.com)
 ---
 
 Thank you for visiting my GitHub! Feel free to explore my projects or reach out for collaboration on innovative ventures.
