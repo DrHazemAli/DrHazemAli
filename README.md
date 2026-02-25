@@ -14,7 +14,7 @@ I'm Hazem Ali, Microsoft AI MVP, Distinguished AI & ML Engineer / Architect and 
 
 ### 🌍 Professional Background
 With over **20+ years of experience** in software development, I have specialized in building, testing, and maintaining robust software solutions across industries, with a focus on agent security and sovereign, governed AI
-architectures, My work is widely referenced by practitioners across multiple regions. My journey in tech is driven by a passion for innovation and delivering high-quality products. I’ve contributed to several global platforms, including **Apple CoreML**, **Cisco's SRTP** (Secure Real-time Transport Protocol) and **PayPal SDK** in addition to more notable contributions in tech industry.
+architectures, My work is widely referenced by practitioners across multiple regions. My journey in tech is driven by a passion for innovation and delivering high-quality products. I’ve contributed to several global platforms, including **Apple CoreML**, **Cisco's SRTP** (Secure Real-time Transport Protocol) and **PayPal SDK**, in addition to more notable contributions in tech industry.
 
 My expertise spans software development, AI research, and business innovation.
 
