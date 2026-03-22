@@ -180,6 +180,7 @@ In addition to published articles on Microsoft, There's another publications & d
   
 ### Global Standards
 - [QSAF: Qorvex Security AI Framework](https://drhazemali.com/blog/qsaf-qorvex-security-ai-framework)
+- [AI Research & Security: LAAF - Logic-layer Automated Attack Framework](https://arxiv.org/abs/2603.17239)
 
 ---
 
