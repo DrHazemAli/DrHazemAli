@@ -13,7 +13,7 @@ I'm Hazem Ali, Microsoft AI MVP, Distinguished AI & ML Engineer / Architect and 
 <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="10%" alt="AWS Certified Cloud Practitioner"> <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1233010265/image13630196475283405168.png" width="10%" alt="AWS Certified Security Speciality"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" width="10%" alt="AWS Certified Machile Learning Speciality"><a href="https://www.linkedin.com/learning/certificates/4e7c30b4b9cf44d3c0edfcd7467d535b06c7efdf5a95b2288faaee8ce9d0f199"><img src="https://images.credly.com/images/bd5a91dd-ddb3-457a-ae35-41598fa98729/twitter_thumb_201604_AI_Industry_Leader_Badge2_test5.png" width="10%" alt="Microsoft Certified AI Leader"></a>
 
 ### 🌍 Professional Background
-With over **20+ years of experience** in software development, I have specialized in building, testing, and maintaining robust software solutions across industries, with a focus on agent security and sovereign, governed AI
+With **nearly two decades of experience** in software development and mission critical systems, I have specialized in building, testing, and maintaining robust software solutions across industries, with a focus on agent security and sovereign, governed AI
 architectures, My work is widely referenced by practitioners across multiple regions. My journey in tech is driven by a passion for innovation and delivering high-quality products. I’ve contributed to several global platforms, including **Apple CoreML**, **Cisco's SRTP** (Secure Real-time Transport Protocol) and **PayPal SDK**, in addition to more notable contributions in tech industry.
 
 My expertise spans software development, AI research, and business innovation.
@@ -171,6 +171,7 @@ These pieces focus on production-grade AI architecture, agent security/governanc
 - [.NET 10 and Memory: Less Heap, Smarter GC, Faster Apps](https://techcommunity.microsoft.com/blog/educatordeveloperblog/-net-10-and-memory-less-heap-smarter-gc-faster-apps/4474165)
 - [When Your LLM Trips the MMU: Page Faults, TLB Shootdowns, and the Hidden Virtual-Memory Tax of AI Inference](https://drhazemali.com/blog/when-your-llm-trips-the-mmu)
 - [Kernel Dynamics: The Real Bottleneck of AI](https://drhazemali.com/blog/kernel-dynamics-the-real-bottleneck-of-ai)
+- [Building an Auditable Security Layer for Agentic AI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/building-an-auditable-security-layer-for-agentic-ai/4495753)
 
 In addition to published articles on Microsoft, There's another publications & deep dive insights on my site.
 - [From Silicon to Pixels: Why No AI Agent Can Ship a Production Browser — A 35-Million-Line Engineering Autopsy](https://drhazemali.com/blog/from-silicon-to-pixels-why-no-ai-agent-can-ship-a-production-browser)
