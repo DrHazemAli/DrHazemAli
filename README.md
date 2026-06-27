@@ -62,6 +62,7 @@ I have been a featured speaker at several notable conferences, where I’ve shar
 
 - 🇪🇬 **TEDxEJUST** Beyond the Boundaries, Delivered on-site Talk & Hands-on AI Workshop.
 - 🇪🇬 **NASA Space Apps** - Served as a Judge, evaluating AI, AR/VR.
+- 🇪🇬 **Microsoft Build // Cairo** — Delivered a distinguished-level session.
 - 🇪🇬 **DeepMinds 5th, 6th** - Served as a technical authority, MSA.
 - 🇦🇪 **CognitionX** Hosted in Microsoft Dubai, Delivered on-site session & Hands-on AI Workshop.
 - 🇦🇪 **Sharjah Linguistic & AI (2024):** Discussed AI & LLMs in linguistic research.
@@ -164,6 +165,7 @@ I’ve been privileged to be recognized by leading international magazines for m
 Practical, engineering-first articles published on Microsoft.
 These pieces focus on production-grade AI architecture, agent security/governance, and performance engineering—designed to help teams ship reliable systems under real constraints.
 
+- [The Hidden Boundaries of Modern AI](https://techcommunity.microsoft.com/blog/educatordeveloperblog/the-hidden-boundaries-of-modern-ai/4522995)
 - [The Hidden Architecture of Nano Architectures](https://techcommunity.microsoft.com/blog/educatordeveloperblog/the-hidden-architecture-of-nano-architectures/4493391)
 - [The Hidden Memory Architecture of LLMs](https://techcommunity.microsoft.com/blog/educatordeveloperblog/the-hidden-memory-architecture-of-llms/4485367)
 - [AI Didn’t Break Your Production — Your Architecture Did](https://techcommunity.microsoft.com/blog/educatordeveloperblog/ai-didn%E2%80%99t-break-your-production-%E2%80%94-your-architecture-did/4482848)
