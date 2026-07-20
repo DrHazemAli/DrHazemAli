@@ -1,6 +1,6 @@
 # Hi, I'm Hazem Ali 👋
 
-I'm Hazem Ali, Microsoft AI MVP, Distinguished AI & ML Engineer / Architect and Founder & CEO of [Skytells, Inc.](https://skytells.io), a company focused on AI, cloud computing, and software engineering, featured on AWS Startups. I'm currently preparing for my **Ph.D.** in Computer Science, with a passion for advancing AI technologies and developing impactful applications.
+I'm Hazem Ali, Microsoft AI MVP, Distinguished Mission-ciritical AI & ML Engineer / Architect and Founder & CEO of [Skytells, Inc.](https://skytells.ai), a company focused on AI, cloud computing, and software engineering, featured on AWS Startups. I'm currently preparing for my **Ph.D.** in Computer Science, with a passion for advancing AI technologies and developing impactful applications.
 
 ![Google Logo](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-A2AAAD?style=for-the-badge&logo=Apple&logoColor=white)
