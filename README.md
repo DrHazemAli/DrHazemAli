@@ -130,6 +130,7 @@ As an ML Engineer, I bring extensive experience across multiple platforms and la
 ---
 
 ### 🌟 Awards & Recognition
+- ![OWASP](https://img.shields.io/badge/OWASP-Featured-red?style=flat&logo=owasp&logoColor=white) **OWASP Top 10 - Cybersecurity in AI**
 - ![Egypt Flag](https://img.shields.io/badge/Egypt-2008-red?style=flat&logo=flag&logoColor=white) **Successor in Programming Languages (2008)**
 - ![UAE Flag](https://img.shields.io/badge/UAE-blue?style=flat&logo=flag&logoColor=white) **Awards from the Government of UAE**
 - ![Stanford Logo](https://img.shields.io/badge/Stanford-8C1515?style=flat&logo=stanford&logoColor=white) **AI in Medicine Contributions (Stanford)**
@@ -180,8 +181,13 @@ In addition to published articles on Microsoft, There's another publications & d
 - [AI as a Worker, Not an Engineer: The Hidden Ceilings Nobody Talks About](https://drhazemali.com/blog/ai-as-worker-not-engineer)
 - [More Publications](https://drhazemali.com/blog)
 
+#### 🛡️ OWASP Security Research
+
+- **[OWASP Agentic Skills Top 10](https://owasp.org/www-project-agentic-skills-top-10/)** — Security research and framework work featured in the OWASP Agentic Skills Top 10.
+- **[OWASP Whitepaper](https://owasp.org/www-project-agentic-skills-top-10/assets/publications/ast10-top10-whitepaper.pdf)** — Full technical publication.
   
 ### Global Standards
+- [OWASP Agentic Skills Top 10](https://owasp.org/www-project-agentic-skills-top-10/) - Agentic AI Security, research and CyberSec framework.
 - [QSAF: Qorvex Security AI Framework](https://drhazemali.com/blog/qsaf-qorvex-security-ai-framework)
 - [AI Research & Security: LAAF - Logic-layer Automated Attack Framework](https://arxiv.org/abs/2603.17239)
 
