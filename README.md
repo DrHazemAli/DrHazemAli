@@ -157,8 +157,8 @@ I’ve had the opportunity to be featured and interviewed by various press and m
 ### Magazines
 I’ve been privileged to be recognized by leading international magazines for my work, leadership and contributions in AI.
 - **THE LEADERS (2025)**: Featured as an AI & ML Visionary Driving the Future of Intelligent Innovation and Digital Transformation, highlighting strategic leadership and enterprise-scale impact.
-- **Magazine 30.30.eg (2026)** [Hazem Ali: The Architect Behind The World's Critical Systems](https://www.facebook.com/magazine30.30.eg/posts/pfbid0rEapE5DrduzbHRcSTcVhDaVhfxA3DQF2PM59QMbKiBbm2DVWtixDMtp7RPkJPwwyl), An Engineering Reference and Technical Authority Who Helped Build the World’s Digital Infrastructure.
-- **Alqahera Times (2024)** Featured for advancing AI in the region and driving new standards in innovation, security, and applied ML.
+- **Magazine 30.30.eg (2026)**: [Hazem Ali: The Architect Behind The World's Critical Systems](https://www.facebook.com/magazine30.30.eg/posts/pfbid0rEapE5DrduzbHRcSTcVhDaVhfxA3DQF2PM59QMbKiBbm2DVWtixDMtp7RPkJPwwyl), An Engineering Reference and Technical Authority Who Helped Build the World’s Digital Infrastructure.
+- **Alqahera Times (2024)**: Featured for advancing AI in the region and driving new standards in innovation, security, and applied ML.
 - CognitionX: [CognitionX Cairo Edition to MENA Engineering Gateway to the World
 ](https://cognitionx.org/en/blog/cognitionx-cairo-edition-to-be-egypt-s-engineering-gateway-to-the-world)
 - Microsoft: [Engineering Without Borders: MVPs and Experts at CognitionX](https://techcommunity.microsoft.com/blog/mvp-blog/engineering-without-borders-mvps-and-experts-at-cognitionx-egypt/4487774)
